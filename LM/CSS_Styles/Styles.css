@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	font-style: italic;
+	color: gray;
+	background: lightblue;
+}
+
+img{
+	width: 40%;
+	position: relative;
+	left: 30%;
+}
+
+p{
+	position: static;
+}
+
+.a{
+	position: fixed;
+	right: 20px;
+	bottom: 20px;
+	background-color: orange;
+	padding: 20px;
+	font-size: 30px;
+}
